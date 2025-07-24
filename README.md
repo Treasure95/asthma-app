@@ -1,0 +1,2 @@
+# asthma-app
+Android app developed in Java using Android Studio, designed to help asthma patients schedule doctor appointments and manage health records locally using SQLite. Focused on accessibility, offline use, and intuitive UI for a better patient experience.
